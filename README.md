@@ -61,3 +61,22 @@ The application requires access to a configured Supabase database with the appro
 ## GitHub Repository
 
 https://github.com/JohnPeterBullos/JohnPeterBullos.github.io
+
+
+## Application Screenshots
+
+### Login Page
+![Login Page](screenshots/Login.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Group Management
+![Group Management](screenshots/Groups.png)
+
+### Group Members
+![Group Members](screenshots/Members.png)
+
+### Task Management
+![Task Management](screenshots/Tasks.png)
+
